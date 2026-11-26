@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="center">🐤
   <a href="https://lyuboslava1.github.io/Flappy-Bird/" target="_blank">
-    🐤 Flappy Bird
+     Flappy Bird
   </a>
 </h1>
 
