@@ -1,9 +1,15 @@
-<h1 align="center">🐤 Flappy Bird</h1> 
+<h1 align="center">
+  <a href="https://lyuboslava1.github.io/Flappy-Bird/" target="_blank">
+    🐤 Flappy Bird
+  </a>
+</h1>
+
 <h2 align="center">
   <a href="https://lyuboslava1.github.io/Flappy-Bird/" target="_blank">
-    🌐 Open Flappy-Bird
+    🌐 Play Flappy Bird
   </a>
 </h2>
+
 
 <p align="center">
   A Flappy Bird remix with coins, hearts, three lives, fireball-shooting piranha plants<br>
