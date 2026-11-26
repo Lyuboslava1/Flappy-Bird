@@ -105,7 +105,7 @@
 
 Created by **Lyuboslava Ivanova** ❤️
 
-Frontend Developer | HTML • CSS • JavaScript
+Frontend Developer | HTML • CSS • JavaScript • React
 
 ### 🙏 Credits
 
