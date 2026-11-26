@@ -11,12 +11,6 @@
   <img alt="Platforms" src="https://img.shields.io/badge/play%20on-desktop%20%7C%20mobile-blue">
 </p>
 
-
-<p align="center">
-  <img src="./preview.png" alt="Flappy Bird Remix: tutorial, day mode, heart pickup, monsters and night mode" width="100%">
-</p>
-
-
 ## 
 
 ### 📑 Contents
