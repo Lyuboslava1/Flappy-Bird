@@ -23,6 +23,8 @@
   <img src="./demo.gif" alt="Gameplay demo: tutorial, coins and a piranha plant" width="270">
 </p>
 
+**[🌐Open Flappy-Bird](https://lyuboslava1.github.io/Flappy-Bird/))**
+
 ### 📸 Gallery
 
 <table align="center">
