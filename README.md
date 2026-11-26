@@ -4,13 +4,6 @@
   </a>
 </h1>
 
-<h2 align="center">
-  <a href="https://lyuboslava1.github.io/Flappy-Bird/" target="_blank">
-    🌐 Play Flappy Bird
-  </a>
-</h2>
-
-
 <p align="center">
   A Flappy Bird remix with coins, hearts, three lives, fireball-shooting piranha plants<br>
   and a day / night theme. Pure HTML5 Canvas + vanilla JavaScript, no frameworks, no build step.
