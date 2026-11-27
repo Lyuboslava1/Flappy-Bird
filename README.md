@@ -52,7 +52,7 @@
   <tr>
     <td align="center">
       <img src="screenshots/monster-night.png" width="200" alt="Green piranha plant at night">
-      <br><sub><b>Monsters after dark</b></sub>
+      <br><sub><b>Green Piranha plant</b></sub>
     </td>
     <td align="center">
       <img src="screenshots/heart-pickup.png" width="200" alt="Heart pickup">
