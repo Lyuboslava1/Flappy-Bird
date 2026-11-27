@@ -6,7 +6,7 @@
 
 <p align="center">
   A Flappy Bird remix with coins, hearts, three lives, fireball-shooting piranha plants<br>
-  and a day / night theme. Pure HTML5 Canvas + vanilla JavaScript, no frameworks.
+  and a day / night theme.
 </p>
 
 <p align="center">
