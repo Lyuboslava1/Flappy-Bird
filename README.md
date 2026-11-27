@@ -6,7 +6,7 @@
 
 <p align="center">
   A Flappy Bird remix with coins, hearts, three lives, fireball-shooting piranha plants<br>
-  and a day / night theme. Pure HTML5 Canvas + vanilla JavaScript, no frameworks, no build step.
+  and a day / night theme. Pure HTML5 Canvas + vanilla JavaScript, no frameworks.
 </p>
 
 <p align="center">
@@ -17,18 +17,18 @@
 
 ## 
 
-### 📑 Contents
+### Contents
 
 [Demo](#-demo) · [Features](#-features) · [How to play](#-how-to-play) · [Controls](#-controls) · [Credits](#-credits)
 
-### 🎬 Demo
+### Demo
 
 <p align="center">
   <img src="./demo.gif" alt="Gameplay demo: tutorial, coins and a piranha plant" width="270">
 </p>
 
 
-### 📸 Gallery
+### Gallery
 
 <table align="center">
   <tr>
@@ -69,19 +69,19 @@
   </tr>
 </table>
 
-### ✨ Features
+###  Features
 
 
 - *<img src="./screenshots/coin.png" width="17px" alt="Golden Mario-style coin">*Mario-style coins** that spin, show a floating `+1`, and sometimes appear in small arcs between the pipes.
 - ❤️ **Three lives.** Lose one and you can **Continue** or **Restart**. Hearts occasionally appear and restore a lost life, up to a maximum of 3.
 - 🌱 **Piranha-plant monsters** that pop out of the pipes. The red ones just bite, while the green ones also shoot fireballs.
 - 🌗 **Day / night theme** with an animated lamp-style toggle switch that also swaps the background.
-- 🎓 **Interactive tutorial.** Hop 3 times to start the game. It fades out on its own and can be skipped.
-- 🔊 **Sound and music.** Background music, sound effects and a mute button. The music pauses while the "continue?" screen is shown.
-- 🏆 **Score and best score** tracking.
-- 🖱️ **Mouse, touch and keyboard** controls.
+-  **Interactive tutorial.** Hop 3 times to start the game. It fades out on its own and can be skipped.
+-  **Sound and music.** Background music, sound effects and a mute button. The music pauses while the "continue?" screen is shown.
+-  **Score and best score** tracking.
+-  **Mouse, touch and keyboard** controls.
 
-### 🕹️ How to play
+### How to play
 
 1. **Hop 3 times** to pass the tutorial and start the game (or press **Skip**).
 2. Fly through the gaps between the pipes. Every pipe you pass is **+1 score**.
@@ -91,7 +91,7 @@
 6. Collect a **❤️ heart** to win back a lost life (never above 3).
 7. Flip the **lamp switch** in the top corner to change between day and night.
 
-### 🎮 Controls
+### Controls
 
 | Action | Keyboard | Mouse / Touch |
 |---|---|---|
@@ -101,13 +101,13 @@
 | Mute / unmute | | Click the speaker icon |
 | Day / night | | Click the lamp switch |
 
-## 👩‍💻 Author
+## Author
 
-Created by **Lyuboslava Ivanova** ❤️
+Created by **Lyuboslava Ivanova** 
 
 Frontend Developer | HTML • CSS • JavaScript • React
 
-### 🙏 Credits
+### Credits
 
 Inspired by the original *Flappy Bird* by Dong Nguyen and Youtube Tutorial by Kenny Yip Coding. 
 
