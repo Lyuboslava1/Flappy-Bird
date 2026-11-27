@@ -85,10 +85,10 @@
 
 1. **Hop 3 times** to pass the tutorial and start the game (or press **Skip**).
 2. Fly through the gaps between the pipes. Every pipe you pass is **+1 score**.
-3. Grab the **<img src="./screenshots/coin.png" width="15px" alt="Golden Mario-style coin">** on the way. They are counted separately from your score.
-4. Watch out for **🌱 piranha plants**. Red ones bite, green ones also **shoot fireballs**.
+3. Collect coins on the way. They are counted separately from your score.
+4. Watch out for piranha plants. Red ones bite, green ones also **shoot fireballs**.
 5. Hitting a pipe or a monster costs **one life** (you start with 3). Choose **Continue** to keep going or **Restart** to begin again.
-6. Collect a **❤️ heart** to win back a lost life (never above 3).
+6. Collect a **heart** to win back a lost life (never above 3).
 7. Flip the **lamp switch** in the top corner to change between day and night.
 
 ### Controls
