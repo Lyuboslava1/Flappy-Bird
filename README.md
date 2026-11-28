@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  A Flappy Bird remix with coins, hearts, three lives, fireball-shooting piranha plants<br>
+  A Flappy Bird twist with coins, hearts, three lives, fireball-shooting piranha plants<br>
   and a day / night theme.
 </p>
 
